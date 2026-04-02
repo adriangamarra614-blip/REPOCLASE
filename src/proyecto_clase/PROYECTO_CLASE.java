@@ -21,7 +21,7 @@ public class PROYECTO_CLASE {
             System.out.println("3. MOSTRAR");
             System.out.println("4.SALIR");
             int Num= Entrada.nextInt();
-            if(Num==1)
+            if(Num==3)
             {
                 Entrada.nextLine();
                 System.out.println("NOMBRE: ");
