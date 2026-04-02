@@ -56,7 +56,6 @@ public class PROYECTO_CLASE {
             else if(Num==4)
             {
                 System.out.println("SALIENDO ");}
-                System.out.println("HOLA");
                 break;
             }
         }
