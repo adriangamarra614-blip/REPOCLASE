@@ -53,11 +53,7 @@ public class PROYECTO_CLASE {
                 for(CUADRADO_CUBO C: LISTA)
                     C.Mostrar();
             }
-            else if(Num==4)
-            {
-                System.out.println("SALIENDO ");}
-                break;
-            }
+            
         }
     }
 
